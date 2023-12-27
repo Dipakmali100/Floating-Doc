@@ -1,6 +1,6 @@
 # React + Vite
 
-Live link: https://floating-docs.netlify.app/
+Application live link: https://floating-docs.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
